@@ -1,7 +1,7 @@
 {
   "name": "Tumb1eweed",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "Tumb1eweed",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
