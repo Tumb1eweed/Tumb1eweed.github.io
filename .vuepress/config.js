@@ -1,6 +1,6 @@
 module.exports = {
   "title": "Tumb1eweed",
-  "description": "The Extension of Man",
+  "description": "Media is The Extension of Man",
   "locales": {
     '/': {
       lang: 'zh-CN'
