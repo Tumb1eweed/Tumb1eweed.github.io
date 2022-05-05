@@ -69,6 +69,7 @@ module.exports = {
         "api"
       ]
     },
+    "subSidebar": 'auto',
     "type": "blog",
     "blogConfig": {
       "category": {
