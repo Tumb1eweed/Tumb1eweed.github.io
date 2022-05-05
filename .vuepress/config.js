@@ -84,8 +84,7 @@ module.exports = {
     "lastUpdated": "Last Updated",
     "author": "Tumb1eweed",
     "authorAvatar": "/avatar.png",
-    "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2022"
   },
   "markdown": {
     "lineNumbers": true
