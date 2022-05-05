@@ -4,9 +4,6 @@ module.exports = {
   "locales": {
     '/': {
       lang: 'zh-CN'
-    },
-    '/en/': {
-      lang: 'en-US'
     }
   },
   "dest": "public",
@@ -44,8 +41,8 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "text": "example",
+            "link": "/docs/example/"
           }
         ]
       },
@@ -62,7 +59,7 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
+      "/docs/example/": [
         "",
         "theme",
         "plugin",
