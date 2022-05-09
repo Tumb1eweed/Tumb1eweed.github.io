@@ -5,7 +5,7 @@ tags:
  - Math
  - Linear Algebra
 categories:
- - Algebra
+ - Math
 ---
 
 ## Reference
