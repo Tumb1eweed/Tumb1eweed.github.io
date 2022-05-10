@@ -12,5 +12,4 @@ categories:
 1. 鱼香ROS2: <https://fishros.com/d2lros2/#/>
 2. 官方Doc: <https://docs.ros.org/en/eloquent/index.html>
 3. How to Install ROS2 in Linux: <https://automaticaddison.com/how-to-install-ros-2-foxy-fitzroy-on-ubuntu-linux/>
-  - Set WSL2 with GUI: <https://jack-kawell.com/2020/06/12/ros-wsl2/>
-  - How to run Gazebo + RVIZ on Windows 10 using WSL2: <https://www.youtube.com/watch?v=DW7l9LHdK5c>
+ps: 不建议使用WSL2去学习ROS2，跑Rviz2会有bug,用VM就行
