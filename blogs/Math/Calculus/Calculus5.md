@@ -1,5 +1,5 @@
 ---
-title: "Chapter5 Integrals"
+title: "Chapter5: Integrals"
 date: 2022-05-12
 tags:
  - Math

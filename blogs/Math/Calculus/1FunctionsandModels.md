@@ -1,5 +1,5 @@
 ---
-title: "Chapter1 Functions and Models"
+title: "Chapter1: Functions and Models"
 date: 2022-05-12
 tags:
  - Math
