@@ -18,3 +18,5 @@ Pytorch支持两种模式:
 1. Allent's Blogs: <https://allentdan.github.io/tags/libtorch/>
 
 Github: <https://github.com/AllentDan/LibtorchTutorials>
+
+2. Getting Started with Pytorch C++: <https://www.youtube.com/watch?v=RFq8HweBjHA&list=PLZAGo22la5t4UWx37MQDpXPFX3rTOGO3k>
