@@ -1,4 +1,4 @@
-site_name: Blog
+site_name: Tumb1eweed's Blog
 site_author: Tumb1eweed
 repo_name: Tumb1eweed.github.io
 repo_url: https://github.com/Tumb1eweed/Tumb1eweed.github.io/
@@ -47,5 +47,15 @@ theme:
   custom_dir: overrides
 
 nav:
-  - 数学基础:
-      - "MIT18.01/18.02: Calculus": "test1/test2/test.md"
+  - Math:
+      - Calculus:
+      - Linear Algebra:
+  - Computer Science:
+      - AI:
+      - OS:
+      - Languages:
+        - C:
+        - C++:
+        - Python:
+        - Go:
+        - Rust:
