@@ -49,13 +49,4 @@ theme:
 nav:
   - Math:
       - Calculus:
-      - Linear Algebra:
-  - Computer Science:
-      - AI:
-      - OS:
-      - Languages:
-        - C:
-        - C++:
-        - Python:
-        - Go:
-        - Rust:
+          - MIT 18.04: "test.md"
