@@ -1,0 +1,51 @@
+site_name: Blog
+site_author: Tumb1eweed
+repo_name: Tumb1eweed.github.io
+repo_url: https://github.com/Tumb1eweed/Tumb1eweed.github.io/
+
+theme:
+  name: material
+  language: zh
+
+  static_templates:
+    - 404.html
+
+  include_search_page: false
+  search_index_only: true
+
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+  custom_dir: overrides
+
+nav:
+  - 数学基础:
+      - "MIT18.01/18.02: Calculus": "test1/test2/test.md"
