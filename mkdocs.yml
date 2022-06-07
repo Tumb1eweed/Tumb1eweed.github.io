@@ -1,5 +1,7 @@
 site_name: Tumb1eweed's Blog
 site_author: Tumb1eweed
+site_description: >-
+  从猿到人的进化中，人未抛弃的唯一行为就是进化本身
 repo_name: Tumb1eweed.github.io
 repo_url: https://github.com/Tumb1eweed/Tumb1eweed.github.io/
 
@@ -49,4 +51,4 @@ theme:
 nav:
   - Math:
       - Calculus:
-          - MIT 18.04: "test.md"
+          - MIT 18.04:
