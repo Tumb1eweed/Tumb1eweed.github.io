@@ -8,4 +8,4 @@ $$
 - 支持微信公众号、知乎和稀土掘金
 - 欢迎扫码回复「排版」加入推文群
 
-![Image Title](https://files.mdnice.com/pic/cd3ca20c-896f-4cfc-9bdd-c4c58e69ba26.jpg){ loading=lazy }
+![Image Title](https://pic4.zhimg.com/80/v2-48697021bb57c421fb888ce6453f2117_1440w.jpg){ loading=lazy }
