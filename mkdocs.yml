@@ -50,5 +50,6 @@ theme:
 
 nav:
   - Math:
-      - Calculus:
-          - MIT 18.04:
+      - Linear Algebra:
+          - MIT 18.04: 
+             - Chapter 1: "Math/test.md"
