@@ -1,6 +1,6 @@
-$$
+\[
 a + b
-$$
+\]
 
 ## 1 Markdown Nice 简介
 
