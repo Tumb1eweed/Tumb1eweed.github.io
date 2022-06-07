@@ -49,6 +49,8 @@ theme:
   custom_dir: overrides
 
 markdown_extensions:
+  - attr_list
+  - md_in_html
   - pymdownx.arithmatex:
       generic: true
 
