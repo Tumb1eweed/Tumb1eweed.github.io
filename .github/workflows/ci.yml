@@ -16,3 +16,4 @@ jobs:
       - run: mkdocs gh-deploy --force
         with:
           token: ${{ secrets.GH_TOKEN }}
+          BRANCH: gh-pages
