@@ -60,7 +60,7 @@ extra_javascript:
 nav:
   - Economics: []
   - CS:
-    - Computer Basis: []
+    - Computer Basis: "CS/test.md"
     - Docker: []
     - OS: []
     - Project: [] 
