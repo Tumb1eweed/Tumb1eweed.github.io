@@ -59,8 +59,11 @@ extra_javascript:
 
 nav:
   - Economics: []
-  - Computer Science:
+  - CS:
+    - Computer Basis: []
     - Docker: []
+    - OS: []
+    - Project: [] 
   - Math:
       - Calculus: []
       - Linear Algebra:
